@@ -16,3 +16,6 @@ end
 # uncomment to turn on ultrasphinx 
 # require_recipe "ultrasphinx"
 
+# uncomment to turn on logrotate custom recipe
+#require_recipe "logrotate"
+
